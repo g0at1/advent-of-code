@@ -1,5 +1,14 @@
-- [Day 1](src/Day1.java)
-- [Day 2](src/Day2.java)
-- [Day 3](src/Day3.java)
-- [Day 4](src/Day4/Day4.java)
-- [Day 4 part 2](src/Day4/Day4Part2.java)
+# 🎄 Advent of Code — Java Solutions
+
+This repository contains my solutions for **Advent of Code**, implemented in Java.  
+Each puzzle is organized by day and split into Part 1 and Part 2.
+
+---
+
+| Day       | Part 1                          | Part 2                                    |
+|-----------|---------------------------------|-------------------------------------------|
+| **Day 1** | [Day1.java](src/Day1/Day1.java) | [Day1Part2.java](src/Day1/Day1Part2.java) |
+| **Day 2** | [Day2.java](src/Day2/Day2.java) | [Day2Part2.java](src/Day2/Day2Part2.java) |
+| **Day 3** | [Day3.java](src/Day3/Day3.java) | [Day3Part2.java](src/Day3/Day3Part2.java) |
+| **Day 4** | [Day4.java](src/Day4/Day4.java) | [Day4Part2.java](src/Day4/Day4Part2.java) |
+| **Day 5** | [Day5.java](src/Day5/Day5.java) | [Day5Part2.java](src/Day5/Day5Part2.java) |
