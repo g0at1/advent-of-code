@@ -17,3 +17,4 @@ Each puzzle is organized by day and split into Part 1 and Part 2.
 | **Day 8**  | [Day8.java](src/Day8/Day8.java)    | [Day8Part2.java](src/Day8/Day8Part2.java)    |
 | **Day 9**  | [Day9.java](src/Day9/Day9.java)    | [Day9Part2.java](src/Day9/Day9Part2.java)    |
 | **Day 10** | [Day10.java](src/Day10/Day10.java) | [Day10Part2.java](src/Day10/Day10Part2.java) |
+| **Day 11** | [Day11.java](src/Day11/Day11.java) | [Day11Part2.java](src/Day11/Day11Part2.java) |
